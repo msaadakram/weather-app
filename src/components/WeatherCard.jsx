@@ -41,9 +41,9 @@ function WeatherCard({ city, weather, unit = "C" }) {
             <div className="info-pill-label">Feels like</div>
             <div className="info-pill-value">{feelsLike}</div>
           </div>
-
+{/*hello*/}
           <div className="info-pill info-pill--purple">
-            <div className="info-pill-label">Humidity</div>
+            <div className="info-pill-label">Humiditysss</div>
             <div className="info-pill-value">{humidity}%</div>
           </div>
         </div>
